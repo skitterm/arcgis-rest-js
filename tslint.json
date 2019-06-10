@@ -5,7 +5,7 @@
     "tslint-config-prettier"
   ],
   "rules": {
-    "strict-type-predicates": false,
+    "strict-type-predicates": true,
     "ordered-imports": ["any"],
     "only-arrow-functions": [false],
     "object-literal-sort-keys": false,
